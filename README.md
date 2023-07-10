@@ -1,0 +1,1 @@
+# bar-sale-management-application
